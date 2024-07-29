@@ -1,4 +1,4 @@
-# HR-analytics-hands-
+# HR-analytics
 
 # Introduction
 This project focuses on HR analytics to understand employee attrition and the factors contributing to it. By analyzing employee data, we aim to identify patterns and provide suggestions to reduce employee turnover.
